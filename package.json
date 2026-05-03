@@ -1,0 +1,24 @@
+{
+  "name": "brand-protection",
+  "version": "0.1.0",
+  "description": "Brand protection toolkit - Monitor and protect your brand online. Powered by DURY LEGAL.",
+  "keywords": [
+    "brand",
+    "protection",
+    "trademark",
+    "monitoring",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/brand-protection.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
